@@ -17,7 +17,7 @@ header h1{
      color: white;
 }
 .containDiv{
-    background-color: rgb(131, 209, 183);
+    background-color: #000;
     width: 100vw;
     height: 100vh;
 }
