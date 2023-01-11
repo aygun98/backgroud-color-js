@@ -12,6 +12,12 @@ function bodyColorVer() {
      divContain.style.backgroundColor = colorInput.value 
 
      colorInput.value = ""
+     
+    }
+
+
+
+
     //  if (colorInput.value = 'blue') {
     //      colorH1.style.color = 'white'
     //      colorInput.value = ""
@@ -21,12 +27,10 @@ function bodyColorVer() {
     //     colorInput.value = ""
     //  }
     
-}
-
-
-
-//       if (colorInput.value = 'white') {
-    //      colorH1.classList.add('h1colorwhite')
+    
+    
+    //       if (colorInput.value = 'white') {
+        //      colorH1.classList.add('h1colorwhite')
     //      colorInput.value = ""
     //  }
     //  else{
@@ -45,3 +49,15 @@ function bodyColorVer() {
         //             colorInput.value = ""
         //          }
         // }
+
+
+    //     <header><h1 class="header-h1">Color The Background</h1></header>
+    // <form action="#">
+    //     <input class="form-input" type="text" placeholder="write a color">
+    //     <button class=" form-btn"><i class="fa-solid fa-palette"></i></button>
+    // </form>
+
+    
+  
+
+
