@@ -28,7 +28,8 @@
     colorBtn.addEventListener("click" , bodyColorVer)
     
     
-    function bodyColorVer() {
+    function bodyColorVer(e) {
+        e.preventDefault()
     divContain.style.backgroundColor = colorInput.value 
      
 
@@ -36,18 +37,18 @@
 
       
         
-    //  if (colorInput.value = 'white') {
-    //     basliqH1.style.color = 'black'
+     
+    //   if (colorInput.value = 'white') {
+    //      basliqH1.style.color = 'black'
+    //       colorInput.value = ""
+    //   }
+    //   else{
+    //      basliqH1.style.color = 'blue'
     //      colorInput.value = ""
-    //  }
-    //  else{
-    //     basliqH1.style.color = 'blue'
-    //     colorInput.value = ""
-    //  }
-    
+    //   }
      
     }
-
+    
 
     // colorBtn.onclick = function(){
         

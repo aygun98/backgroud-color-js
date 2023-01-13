@@ -48,6 +48,11 @@ header h1{
     border: none;
     cursor: pointer;
     border-radius: 12px;
+    border-bottom-left-radius:0 ;
+    border-top-left-radius: 0;
+}
+.form-btn:hover{
+    background-color: rgba(0, 0, 0, 0.267);
 }
 
 .fa-solid {
