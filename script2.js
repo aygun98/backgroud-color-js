@@ -33,21 +33,36 @@
     divContain.style.backgroundColor = colorInput.value 
      
 
-     colorInput.value = ""
+    // colorInput.value = " "
+
+    // if (colorInput.value = ' ') {
+    //     basliqH1.style.color = 'black'
+    // }
+    
+}
+    
 
       
         
      
-    //   if (colorInput.value = 'white') {
-    //      basliqH1.style.color = 'black'
-    //       colorInput.value = ""
-    //   }
-    //   else{
-    //      basliqH1.style.color = 'blue'
-    //      colorInput.value = ""
-    //   }
+      
      
-    }
+
+//     colorBtn.addEventListener("keydown" , yazirengi)
+//     function yazirengi(e) {
+//         divContain.style.backgroundColor = colorInput.value 
+//         alert('isle')
+//         const ag =  'white'
+//     if (colorInput.value = ag) {
+//         basliqH1.style.color = 'black'
+        
+//      }
+//      else{
+//        basliqH1.style.color = ag
+//    }
+//     console.log(colorInput.value);
+        
+//     }
     
 
     // colorBtn.onclick = function(){
